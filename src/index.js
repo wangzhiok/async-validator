@@ -301,4 +301,6 @@ Schema.messages = defaultMessages;
 
 Schema.validators = validators;
 
+window.validator = Schema;
+
 export default Schema;
